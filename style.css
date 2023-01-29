@@ -1,0 +1,109 @@
+.col{
+    background-color:#F8F9FA;
+}
+.nav-link{
+    font-weight: 600px;
+    color: rgb(48, 40, 40);
+}
+body{
+    padding: 0px 110px;
+}
+.in{
+    display: flex;
+    width: 100%;
+    background-color: #FEEAE9;
+    border-radius: 15px;
+    padding: 50px;
+}
+.demo1{
+    padding-top: 90px;
+    /* padding-bottom: 90px; */
+}
+.inside{
+    padding: 110px 20px;
+}
+.butt{
+    text-decoration: none;
+    color: white;
+    font-size: 17px;
+    background-image: linear-gradient(#FF5398,#FF1C74);
+    border-radius: 5px;
+    padding: 10px 20px;
+}
+.bg-col1{
+    background-color: #FFA500;
+    border-radius: 15px;
+    margin-right: 50px;
+    display: flex;
+    /* width: 100%; */
+    color: white;
+    padding-top: 20px;
+}
+.bg-col2{
+    background-color: #DA70D6;
+    border-radius: 15px;
+    margin-right: 50px;
+    display: flex;
+    color: white;
+    /* width: 100%; */
+    padding-top: 20px;
+
+}
+.bg-col3{
+    background-color: #0000FF;
+    border-radius: 15px;
+    color: white;
+    display: flex;
+    padding-top: 20px;
+    /* width: 100%; */
+}
+.sec3{
+    display: flex;
+    /* height: 330px;*/
+    width: 100%; 
+    margin-bottom: 20px;
+}
+.hto{
+    padding-top: 40px;
+    padding-left: 40px;
+    padding-right: 70px;
+    padding-bottom: 0px;
+}
+.all-box{
+    margin-right: 30px;
+    border-radius: 5%;
+    box-shadow: 0 2px 10px 0 rgba(65, 61, 61, 0.2), 0 6px 50px 0 #ECECEC;
+    padding-bottom: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.all-box1{
+    border-radius: 5%;
+    box-shadow: 0 2px 10px 0 #E1E1E1, 0 10px 20px 0 #ECECEC;
+    padding-bottom: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.all-box2{
+    border-radius: 5%;
+    box-shadow: 0 2px 10px 0 #E1E1E1, 0 10px 20px 0 #ECECEC;
+    padding-bottom: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-right: 30px;
+    /* padding-right: 30px; */
+}
+.inp{
+    width: 45%;
+    border: 1px solid #CED4DA;
+    border-radius: 5px;
+    padding: 5px;
+}
+.inp:focus{
+    width: 45%;
+    border: 1px solid #CED4DA;
+    box-shadow: 0px 0px 0px 2px #BDCEEE;
+    border-radius: 5px;
+    padding: 5px;
+    outline: none;
+}
